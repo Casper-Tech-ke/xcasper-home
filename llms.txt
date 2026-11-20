@@ -1,0 +1,14 @@
+# TRABY-CASPER
+
+> Developer, Founder & Builder from Kenya. CEO of XCASPER Hosting and Casper Tech Devs.
+
+TRABY-CASPER builds next-gen infrastructure and developer tools from Kenya — hosting platforms, APIs, and automation. Home on the web: https://xcasper.space/
+
+## Links
+
+- [Portfolio](https://xcasper.space/)
+- [GitHub](https://github.com/Casper-Tech-ke)
+- [XCASPER Hosting](https://panel.xcasper.space)
+- [Support](https://support.xcasper.space)
+- [Status](https://status.xcasper.space)
+- [Email](mailto:support@xcasper.space)
